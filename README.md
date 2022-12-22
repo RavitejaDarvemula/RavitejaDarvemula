@@ -10,6 +10,6 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![]([https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical](https://api.chucknorris.io/jokes/random))
 
 
